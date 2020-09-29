@@ -3,7 +3,7 @@
 The objective of this assignment was to simulate consolidation of both html Div elements and CSS targets. Throughout this past week, I had a code consolidation that was functioning very well, but before I could launch it, several changes I made in the CSS caused to completely go haywire and I couldn't see a way to fix it quick without my brain snapping, so I had to start over. With this new code, I feel like it works better in terms of organization than it was before.
 
 ### link here
-https://hopelessbromantic.github.io/HopelessBromantic/
+https://codymjohnson.github.io/HopelessBromantic/
 ### screenshot
 ![Screenshot (13)](https://user-images.githubusercontent.com/71087410/94585181-e0ef3b00-023c-11eb-8fef-8997e2dd29d8.png)
 
